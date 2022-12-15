@@ -20,7 +20,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Advance JavaScript** - 📫 How to reach me
+- 🌱 I’m currently learning **React** - 📫 How to reach me
 **shivamchaudhary75@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
