@@ -20,8 +20,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **React** - 📫 How to reach me
-**shivamchaudhary75@gmail.com**
+- 🌱 I’m currently learning **Redux** - 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
