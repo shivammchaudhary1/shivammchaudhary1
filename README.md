@@ -18,7 +18,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/sivamchdhry" target="blank"><img src="https://img.shields.io/twitter/follow/sivamchdhry?logo=twitter&style=for-the-badge" alt="sivamchdhry" /></a> </p>
+
 
 - 🌱 I’m currently learning **Redux**
 
