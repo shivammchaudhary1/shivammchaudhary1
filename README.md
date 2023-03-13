@@ -156,7 +156,7 @@
           width="40"
           height="40"
       /></a>
-      <a
+<!--       <a
         href="https://www.adobe.com/in/products/photoshop.html"
         target="_blank"
         rel="noreferrer"
@@ -166,7 +166,7 @@
           alt="photoshop"
           width="40"
           height="40"
-      /></a>
+      /></a> -->
       <a
         href="https://www.adobe.com/in/products/photoshop-lightroom.html"
         target="_blank"
