@@ -8,6 +8,7 @@
 <h3 align="center">A passionate full stack developer from Lucknow, India</h3>
 
 <img
+  
   align="right"
   alt="coding"
   width="400"
