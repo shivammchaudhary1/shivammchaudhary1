@@ -19,11 +19,11 @@
 
 
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **AI Engineering or LLM**
 
 - 👨‍💻 All of my projects are available at [https://shivammchaudhary1.github.io/](https://shivammchaudhary1.github.io/)
 
-- 💬 Ask me about **React, Redux, HTML, CSS, JavaScript**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **shivamchaudhary75@gmail.com**
 
