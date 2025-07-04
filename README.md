@@ -2,9 +2,11 @@
   alt="Something Went Wrong"/>
 
 
-<h1 align="center">Hello, I'm Shivam Chaudhary</h1>
-<h3 align="center">A passionate full stack developer from Lucknow, India.</h3>
-<h3 align="center">I am working at WLC Technology as a Software Developer......</h3>
+<h1 align="center">Hi, I'm Shivam Chaudhary 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Based in Lucknow, India</h3>
+<h4 align="center">Experienced in building scalable, production-ready web applications using modern technologies.</h4>
+<p align="center">💻 Passionate about clean code, API design, and solving real-world problems through tech.</p>
+
 
 <img
   align="right"
