@@ -125,22 +125,33 @@ Started professional journey building web applications and services.
 
 ---
 
+
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivammchaudhary1&theme=onedark&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" /></a>
-</p>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0;">
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy-fork-two.vercel.app/?username=shivammchaudhary1&theme=light" alt="GitHub Trophies" style="width: 100%; max-width: 900px; border-radius: 8px;" />
+    </a>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivammchaudhary1&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammchaudhary1&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="40%" />
-</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+  <div style="background: #f6f8fb; padding: 1rem; border-radius: 8px; border-left: 4px solid #667eea;">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=shivammchaudhary1&show_icons=true" alt="GitHub Stats" style="width: 100%;" />
+  </div>
+  
+  <div style="background: #f6f8fb; padding: 1rem; border-radius: 8px; border-left: 4px solid #764ba2;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shivammchaudhary1" alt="GitHub Streak" style="width: 100%;" />
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammchaudhary1&theme=onedark&hide_border=true" alt="GitHub Streak" />
-</p>
+<div style="background: #f6f8fb; padding: 1rem; border-radius: 8px; border-left: 4px solid #667eea; margin: 1.5rem 0;">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shivammchaudhary1&layout=compact" alt="Top Languages" style="width: 100%;" />
+</div>
 
 ---
+
 
 ## 🔗 Connect With Me
 
